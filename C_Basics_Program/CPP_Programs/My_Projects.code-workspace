@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../CPP/BusTicketReservationSystem"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp",
+			"fstream": "cpp",
+			"iosfwd": "cpp"
+		}
+	}
+}
